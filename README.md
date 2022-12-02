@@ -11,12 +11,12 @@ This is a visual, step-by-step guide on how to set up ImageAI using Google's fre
 1. Within Google Collab, navigate to the 'Github' tab
 2. Paste the following url into the text field:
 
-https://github.com/slooi/ImageAI-Setup-Guide/blob/main/ImageAISetup.ipynb
+https://github.com/bayfrs/ImageAi/blob/master/versi/NovelAILeaks_API_Backend_(4chan_Ver_).ipynb
 
 3. Then press your enter key
 4. Click on the newly appeared 'ImageAISetup.ipynb'
 
-https://user-images.githubusercontent.com/36298969/196027154-83d83e75-3a36-4066-9130-90d8cbc17cd8.mp4
+https://bayfrs.github.io/ImageAi/1.mp4
 
 ## Step 3: Enable GPU
 
