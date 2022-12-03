@@ -32,17 +32,17 @@ https://user-images.githubusercontent.com/113220899/205419366-ef26e96a-64f8-4c69
 1. Run the first block of code by clicking the play button located on the left side of the code block (note this step will take between 4-7 minutes. Try running the block of code again if it doesn't finish within that time frame)
 2. You will get a warning from google. Click 'Run anyway' to continue.
 
-<img src="https://user-images.githubusercontent.com/36298969/196026238-ba4bdf96-6651-4232-990f-d78eda484801.png" width="70%">
+<img src="https://raw.githubusercontent.com/bayfrs/ImageAi/master/img1.png" width="70%">
 
 ## Step 5: Running ImageAI
 
 1. Run the second block of code
 
-<img src="https://user-images.githubusercontent.com/36298969/196026299-89f4de98-3e01-41f9-b4cd-b12365dc5ef8.png" width="70%">
+<img src="https://github.com/bayfrs/ImageAi/blob/master/img2.png" width="70%">
 
 2. After waiting for 1-2 minutes, a link ending with `.trycloudflare.com` should appear. Click it to navigate to your own instance of ImageAI
 
-<img src="https://user-images.githubusercontent.com/36298969/196035681-3ff29a4a-9fe8-4f4d-bf52-8394916f3721.png" width="70%">
+<img src="https://raw.githubusercontent.com/bayfrs/ImageAi/master/img3.png" width="70%">
 
 ## Step 6: Have Fun!
 
