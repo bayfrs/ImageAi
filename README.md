@@ -16,7 +16,7 @@ https://github.com/bayfrs/ImageAi/blob/master/versi/NovelAILeaks_API_Backend_(4c
 3. Then press your enter key
 4. Click on the newly appeared 'ImageAISetup.ipynb'
 
-https://bayfrs.github.io/ImageAi/1.mp4
+[](https://bayfrs.github.io/ImageAi/1.mp4)
 
 ## Step 3: Enable GPU
 
